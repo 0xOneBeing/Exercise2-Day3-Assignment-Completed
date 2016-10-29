@@ -1,0 +1,18 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+div.col-one {
+	border: 1px solid green;
+	/*padding: 2em 5%; /* padding: 3em 3em; or padding: 3em 3em 3em 3em;*/
+	
+	height: 3em;
+	width: 32%;
+	float: left; /*could be to left or right*/
+	margin-right: 1em;
+}
+div#container {
+	border: 3px solid yellow;
+	float: left;
+	width: 100%;
+}
